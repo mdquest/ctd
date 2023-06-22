@@ -1,0 +1,1 @@
+Operation of this website is simple. Open the .html document in your webbrowser. You will be shown the current weather of Ho Chi Minh City and a cat picture. Refresh the page to get a new cat picture and the current temperature of the weather in Ho Chi Minh City, Vietnam.
